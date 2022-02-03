@@ -7,7 +7,7 @@ const mastHead = () => {
         <Flex h={"10vh"} w={"100vw"} fontSize={"1vw"} justifyContent={"space-between"} px={5} pt={2} bg={"AltBlue"}>
             <Flex>
                 <Text>Special Thanks to:
-                    <br/><Link href={"https://www.wyattsell.com"} isExternal >Wyatt Sell</Link> - for letting me use his face
+                    <br/><Link href={"https://wyattsell.com"} isExternal >Wyatt Sell</Link> - for letting me use his face
                     <br/><Link href={"https://twitter.com/alistaiiiir"} isExternal>Alistair Smith</Link> - for cofounding Wyatsapp
                 </Text>
             </Flex>
