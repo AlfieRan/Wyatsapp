@@ -7,9 +7,13 @@ const theme = extendTheme({
         global: {
             "html, body": {
                 color: "#FFFFFF",
-                bg: "#4f5ac0"
+                bg: "BackBlue"
             }
         }
+    },
+    colors: {
+        BackBlue: "#4f5ac0",
+        AltBlue: "#3a4196"
     }
 });
 
