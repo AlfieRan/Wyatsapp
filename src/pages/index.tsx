@@ -11,8 +11,8 @@ const Home = () => {
         <Center h={"80vh"} w={"100vw"} fontSize={"4vw"}>
             <Flex>
                 <Box
-                    height={'400px'}
-                    width={'400px'}
+                    height={'30vw'}
+                    width={'30vw'}
                     rounded={'lg'}
                     overflow={'hidden'}
                     pos={'relative'}
